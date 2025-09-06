@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+}
+
+h1 {
+    color: darkred;
+    margin-bottom: 5px;
+}
+
+p {
+    margin-top: 0;
+    color: #444;
+}
+
+#searchInput {
+    margin: 15px 0;
+    padding: 8px;
+    width: 250px;
+    border: 1px solid #aaa;
+    border-radius: 3px;
+}
+
+#cardGrid {
+    border: 2px dashed #aaa;
+    min-height: 120px;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #fff;
+}
+
+#favList {
+    border: 1px solid #aaa;
+    padding: 10px;
+    min-height: 60px;
+    background-color: #fff;
+    list-style: none;
+}
+
+#favList li {
+    padding: 5px 0;
+    border-bottom: 1px solid #eee;
+}
+
+button {
+    margin-top: 10px;
+    padding: 6px 12px;
+    border: 1px solid #666;
+    background-color: #eee;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ddd;
+}
