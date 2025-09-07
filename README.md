@@ -1,4 +1,4 @@
-BiteTrail – Discover Authentic Food Spots
+## BiteTrail – Discover Authentic Food Spots
 
 🔎 Problem Statement
 
@@ -54,9 +54,9 @@ Ability for users to save their favorite restaurants to revisit and share truste
 
 **Maps:** Leaflet.js
 
-**Storage: **LocalStorage (favorites)
+**Storage:** LocalStorage (favorites)
 
 ## Demo
 
-Insert gif or link to demo
+<screenshots>
 
