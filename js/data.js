@@ -135,7 +135,7 @@ const PLACES = [
         tags: ["south indian", "fast food", "cheap"],
         lat: 13.082,
         lng: 80.277,
-        image: "img/ratna-cafe.jpg"
+        image: "img/Ratna.jpg"
     },
     {
         id: 204,
@@ -146,7 +146,7 @@ const PLACES = [
         tags: ["andhra", "non-veg", "trending"],
         lat: 13.06603,
         lng: 80.24224,
-        image: "img/vivaha-bhojanambu.jpg"
+        image: "img/Vivaha.jpg"
     },
     {
         id: 205,
@@ -157,7 +157,7 @@ const PLACES = [
         tags: ["biryani", "south indian", "non-veg"],
         lat: 13.03124,
         lng: 80.21619,
-        image: "img/thalappakatti.jpg"
+        image: "img/Thalapakatti.jpg"
     },
     {
         id: 206,
@@ -168,6 +168,6 @@ const PLACES = [
         tags: ["south indian", "tamil", "local"],
         lat: 13.035,
         lng: 80.225,
-        image: "img/sangamithirai.jpg"
+        image: "img/Sangamithirai.jpg"
     }
 ];
