@@ -1,9 +1,4 @@
-#🍴 BiteTrail – Discover Authentic Food Spots
-👥 Team Members
-
-Pavithra V G
-
-Mokshaya Durgai N
+BiteTrail – Discover Authentic Food Spots
 
 🔎 Problem Statement
 
@@ -30,61 +25,38 @@ An interactive map for easy navigation
 Regularly updated reviews to ensure reliability
 
 Ability for users to save their favorite restaurants to revisit and share trusted food experiences
+## Features
 
-✨ Features
+- 🗺️ Interactive Maps – 📝 Updated Reviews – Stay up-to-date and avoid closed shops
+- Favorites List – Save and revisit places you love
+- ✅ Authenticity – Focus on genuine, community-driven recommendations
 
-🗺️ Interactive Maps – Explore food spots visually
 
-📝 Updated Reviews – Stay up-to-date and avoid closed shops
+## Impact
+--Helps tourists and locals discover authentic food spots with confidence
 
-❤️ Favorites List – Save and revisit places you love
+--Provides visibility to small and hidden shops, boosting local businesses
 
-✅ Authenticity – Focus on genuine, community-driven recommendations
+--Creates personalized food journeys with favorites and crowdsourced reviews
 
-🌍 Impact
+--Reduces frustration from outdated or closed listings, saving time
 
-Helps tourists and locals discover authentic food spots with confidence
+--Builds a community-driven platform where locals and travelers share experiences
 
-Provides visibility to small and hidden shops, boosting local businesses
+--Promotes regional cuisines and food heritage
 
-Creates personalized food journeys with favorites and crowdsourced reviews
+--Increases trust and transparency by removing inactive or false listings
+## Tech Stack
 
-Reduces frustration from outdated or closed listings, saving time
+**Client:** HTML, CSS, JavaScript
 
-Builds a community-driven platform where locals and travelers share experiences
+**Server:** Firebase (real-time database & authentication)
 
-Promotes regional cuisines and food heritage
+**Maps:** Leaflet.js
 
-Increases trust and transparency by removing inactive or false listings
+**Storage: **LocalStorage (favorites)
 
-🚀 Future Scope
+## Demo
 
-🔄 Real-time backend to keep shop updates and reviews accurate at all times
+Insert gif or link to demo
 
-🏛️ Tourism board tie-ups to promote authentic regional cuisines and hidden gems
-
-🍔 Food delivery and booking integration for more convenience
-
-🌐 Multi-language support so international tourists can easily access the app
-
-🧮 Smart filters for budget, dietary needs, and opening hours
-
-🛠 Tech Stack
-
-Frontend: HTML, CSS, JavaScript
-
-Backend: Firebase (real-time database & authentication)
-
-Maps: Leaflet.js
-
-Storage: LocalStorage (favorites)
-
-✅ Conclusion
-
-BiteTrail provides a reliable, community-driven way to discover authentic food spots. By combining interactive maps, personalized features, and real-time updates, it:
-
-Helps tourists and locals find genuine places to eat
-
-Supports small businesses by giving them visibility
-
-Makes food exploration easier, trustworthy, and enjoyable for everyone
